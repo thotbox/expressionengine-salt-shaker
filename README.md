@@ -27,7 +27,7 @@ f56c623464c7a221b20dabd1d4b3faa9
 
 ### Practical Uses
 
-I initially put this together to generate unique license keys based on member usernames for a project I'm working on.
+The sky's the limit in terms of application. I initially put this together to generate unique license keys based on member usernames for a project I'm working on.
 
 For super basic DRM, the client would send the username and license key, and serverside I'd match it against:
 

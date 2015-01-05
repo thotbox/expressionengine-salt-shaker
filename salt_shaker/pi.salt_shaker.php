@@ -1,7 +1,7 @@
 <?php
 
 $plugin_info = array(
-    'pi_name' => 'Thotbox Salt Shaker',
+    'pi_name' => 'Thotbox: Salt Shaker',
     'pi_author' =>'Shane Woodward',
     'pi_description' => 'Simple string encryption using a custom salt key',
     'pi_version' =>'1.0',

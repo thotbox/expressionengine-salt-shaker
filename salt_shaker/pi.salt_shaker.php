@@ -22,7 +22,7 @@ class salt_shaker {
         return $result;
     }
 
-    public function usage() {
+    public static function usage() {
         ob_start();
     ?>
         Use {exp:salt_shaker salt='random_salt_key'}content you want salted{/exp:salt_shaker} to output salted contents.
